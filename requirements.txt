@@ -1,0 +1,6 @@
+ollama
+pldfplumber
+pymupdf
+ocrmypdf
+pypdf2
+

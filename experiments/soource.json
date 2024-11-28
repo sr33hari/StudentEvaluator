@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Harry James Potter",
+      "hairColor": "Black",
+      "house": "Gryffindor",
+      "wandSizeInInches": "11",
+      "petType": "Owl"
+    },
+    {
+      "name": "Hermione Jean Granger",
+      "hairColor": "Brown",
+      "house": "Gryffindor",
+      "wandSizeInInches": "10¾",
+      "petType": "Cat"
+    },
+    {
+      "name": "Ronald Bilius Weasley",
+      "hairColor": "Red",
+      "house": "Gryffindor",
+      "wandSizeInInches": "14",
+      "petType": "Rat"
+    },
+    {
+      "name": "Neville Longbottom",
+      "hairColor": "Blond",
+      "house": "Gryffindor",
+      "wandSizeInInches": "13",
+      "petType": "Toad"
+    }
+  ]

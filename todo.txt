@@ -1,0 +1,72 @@
+1) Final score evaluation.
+2) Branch based scoring 
+3) Chess, mind games, awards create sub categories
+4) Sports, TA IEEE ACM SPRINGER WILEY zone 1. 
+
+
+Create a prompt for 3,4.
+Extract publication name from the supporting information.
+Give only 2 scores, zone 1 and everything else.
+Create a formula for final score based on each of the metrics, borrow prompts from other files.
+Create a score for branches, CS first, IS next etc.
+Create a file to check for AI content. 
+Create a file to check for plagiarism between LoRs.
+
+Check for NSF grants in education.
+Create loom recording to show the run time of one user/walkthrough.
+
+Things to benchmark:
+
+1) Text extraction based on multiple pdf libraries
+2) llama3 vs other llms for text summarizations and extractions of fields.
+3) Ensuring LLMs can have multiple inferences running on one endpoint. 
+4) Run a comparison for run times based on quantisation models, compare the same prompt for JSON response accuracy and time taken for the same. - https://ollama.com/library/nous-hermes
+5) Different types of AI content detection models. Roberta with open ai 2, perplexity based  
+
+
+
+
+
+EXPERIENCE
+Experience Type:
+Recognition Type:
+Title:
+Employer:
+Supervisor:
+
+ACHIEVEMENTS
+AWARDS
+Name:
+Organization:
+Date:
+
+PUBLICATIONS
+Name:
+Organization:
+Date:
+
+HONORS
+Name:
+Organization
+Date:
+
+
+PROVIDE YOUR OVERALL RECOMMENDATION FOR THIS APPLICANT.
+
+0~3 LORs follow. One form for each with the above recommendation
+
+in your final csv file, we need
+Name
+Email ID
+Achievements score out of 100
+LORs score out of 100
+SoP score out of 100
+Final score (come up with some formula to get normalized score out of 100)
+
+1) Major
+2) GPA
+3) Final score evaluation.
+4) Branch based scoring 
+5) Chess, mind games, awards create sub categories
+6) Sports, TA IEEE ACM SPRINGER WILEY zone 1. 
+7) HONORS, udemy 
